@@ -1,0 +1,7754 @@
+/* screen - calendar-2 */
+
+.calendar-2 {
+  background-color: #282828;
+  height: 1918px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 375px;
+}
+
+.calendar-2 .kisspng-planet-water-C61RwL {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/kisspng-planet-watercolor-painting-illustration-planet-5a7aeb9e3@1x.png);
+  background-size: 100% 100%;
+  height: 616px;
+  left: -379px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 328px;
+  width: 616px;
+}
+
+.calendar-2 .group-14-C61RwL {
+  --z-index: 1;
+  background-color: transparent;
+  height: 40px;
+  left: 64px;
+  opacity: 1;
+  position: absolute;
+  top: 388px;
+  width: 249px;
+}
+
+.calendar-2 .rectangle-47-AX7pWk {
+  --z-index: 0;
+  background-color: #f6e7c6;
+  border-radius: 20px;
+  box-shadow: 0px 0px 4px #f6e7c6;
+  height: 40px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 247px;
+}
+
+.calendar-2 .select-your-sign-AX7pWk {
+  --z-index: 1;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: 23px;
+  left: 21px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 6px;
+  width: 131px;
+}
+
+.calendar-2 .solid-angle-down-AX7pWk {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/solid---angle-down@2x.svg);
+  background-size: 100% 100%;
+  height: 24px;
+  left: 203px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 8px;
+  width: 24px;
+}
+
+.calendar-2 .component-12-C61RwL {
+  --z-index: 2;
+  background-color: transparent;
+  height: 328px;
+  left: 64px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 436px;
+  width: 247px;
+}
+
+.calendar-2 .group-1-SbfXyE {
+  --z-index: 0;
+  background-color: transparent;
+  height: 328px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 261px;
+}
+
+.calendar-2 .polygon-1-JnE7zF {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/polygon-1@2x.svg);
+  background-size: 100% 100%;
+  height: 27px;
+  left: 189px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: -0px;
+  width: 52px;
+}
+
+.calendar-2 .rectangle-1-JnE7zF {
+  --z-index: 1;
+  background-color: #f8f8f8;
+  border: 1px solid #f2f2f2;
+  border-radius: 5px;
+  box-shadow: 10px 10px 50px #0000001a;
+  height: 316px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 12px;
+  width: 247px;
+}
+
+.calendar-2 .line-1-JnE7zF {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/line-1@2x.svg);
+  background-size: 100% 100%;
+  height: 2px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 56px;
+  width: 247px;
+}
+
+.calendar-2 .line-2-JnE7zF {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/line-2@2x.svg);
+  background-size: 100% 100%;
+  height: 2px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 102px;
+  width: 247px;
+}
+
+.calendar-2 .line-3-JnE7zF {
+  --z-index: 4;
+  background-color: transparent;
+  background-image: url(../img/line-3@2x.svg);
+  background-size: 100% 100%;
+  height: 2px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 147px;
+  width: 247px;
+}
+
+.calendar-2 .line-4-JnE7zF {
+  --z-index: 5;
+  background-color: transparent;
+  background-image: url(../img/line-4@2x.svg);
+  background-size: 100% 100%;
+  height: 2px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 192px;
+  width: 247px;
+}
+
+.calendar-2 .line-5-JnE7zF {
+  --z-index: 6;
+  background-color: transparent;
+  background-image: url(../img/line-5@2x.svg);
+  background-size: 100% 100%;
+  height: 2px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 237px;
+  width: 247px;
+}
+
+.calendar-2 .line-6-JnE7zF {
+  --z-index: 7;
+  background-color: transparent;
+  background-image: url(../img/line-6@2x.svg);
+  background-size: 100% 100%;
+  height: 2px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 282px;
+  width: 247px;
+}
+
+.calendar-2 .line-7-JnE7zF {
+  --z-index: 8;
+  background-color: transparent;
+  background-image: url(../img/line-7@2x.svg);
+  background-size: 100% 100%;
+  height: 2px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 327px;
+  width: 247px;
+}
+
+.calendar-2 .aries-JnE7zF {
+  --z-index: 9;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 24px;
+  width: 67px;
+}
+
+.calendar-2 .taurus-JnE7zF {
+  --z-index: 10;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 69px;
+  width: 63px;
+}
+
+.calendar-2 .gemini-JnE7zF {
+  --z-index: 11;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 115px;
+  width: 72px;
+}
+
+.calendar-2 .cancer-JnE7zF {
+  --z-index: 12;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 160px;
+  width: 84px;
+}
+
+.calendar-2 .leo-JnE7zF {
+  --z-index: 13;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 205px;
+  width: 52px;
+}
+
+.calendar-2 .virgo-JnE7zF {
+  --z-index: 14;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 250px;
+  width: 63px;
+}
+
+.calendar-2 .libra-JnE7zF {
+  --z-index: 15;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 295px;
+  width: 61px;
+}
+
+.calendar-2 .rectangle-54-SbfXyE {
+  --z-index: 1;
+  background-color: #c4c4c4;
+  border-radius: 10px;
+  height: 150px;
+  left: 237px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 43px;
+  width: 2px;
+}
+
+.calendar-2 .component-11-C61RwL {
+  --z-index: 3;
+  background-color: transparent;
+  height: 234px;
+  left: 17px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 101px;
+  width: 341px;
+}
+
+.calendar-2 .good-days-calendar-67BR09 {
+  --z-index: 0;
+  -webkit-text-stroke: 0.30000001192092896px #f6e7c6;
+  background-color: transparent;
+  color: #f6e7c6;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 35px;
+  font-style: normal;
+  font-weight: 400;
+  height: 84px;
+  left: -0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: -0px;
+  width: 341px;
+}
+
+.calendar-2 .good-days-and-best-d-67BR09 {
+  --z-index: 1;
+  background-color: transparent;
+  color: #f6e7c6;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: 150px;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 84px;
+  width: 339px;
+}
+
+.calendar-2 .component-15-C61RwL {
+  --z-index: 4;
+  background-color: transparent;
+  height: 48px;
+  left: 13px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 38px;
+  width: 348px;
+}
+
+.calendar-2 .x-80D1y4 {
+  --z-index: 0;
+  -webkit-text-stroke: 1px #f6e7c6;
+  background-color: transparent;
+  color: #f6e7c6;
+  font-family: 'Fredericka the Great', Helvetica;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+  height: 49px;
+  left: 10px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: -7px;
+  transform: rotate(-90.00deg);
+  width: auto;
+}
+
+.calendar-2 .cafe-astrology-80D1y4 {
+  --z-index: 1;
+  -webkit-text-stroke: 1px #ffffff;
+  background-color: transparent;
+  color: #f6e7c6;
+  cursor: pointer;
+  font-family: 'Fredericka the Great', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  height: 37px;
+  left: 47px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 0px;
+  width: auto;
+}
+
+.calendar-2 .component-14-80D1y4 {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/component-14@2x.svg);
+  background-size: 100% 100%;
+  height: 6px;
+  left: 2px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 42px;
+  width: 346px;
+}
+
+.calendar-2 .component-13-80D1y4 {
+  --z-index: 3;
+  background-color: transparent;
+  height: 38px;
+  left: 304px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 38px;
+}
+
+.calendar-2 .bg-MuEe0J {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/bg@2x.svg);
+  background-size: 100% 100%;
+  height: 48px;
+  left: -5px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: -5px;
+  width: 48px;
+}
+
+.calendar-2 .user-interface-research-MuEe0J {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/user-interface---research@2x.svg);
+  background-size: 100% 100%;
+  height: 27px;
+  left: 6px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 6px;
+  width: 27px;
+}
+
+.calendar-2 .footer-C61RwL {
+  --z-index: 5;
+  background-color: transparent;
+  height: 967px;
+  left: -140px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 1117px;
+  width: 553px;
+}
+
+.calendar-2 .kisspng-drawing-we-h-iPe1yZ {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/kisspng-drawing-we-heart-it-sketch-astronaut-5a79a4b7199b21-1@1x.png);
+  background-size: 100% 100%;
+  height: 960px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 7px;
+  width: 553px;
+}
+
+.calendar-2 .underline_06-iPe1yZ {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/underline-06@2x.svg);
+  background-size: 100% 100%;
+  height: 6px;
+  left: 158px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 40px;
+}
+
+.calendar-2 .underline_06-CMvW9s {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/underline-06-1@2x.svg);
+  background-size: 100% 100%;
+  height: 6px;
+  left: 197px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 42px;
+}
+
+.calendar-2 .underline_06-edsI20 {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/underline-06-1@2x.svg);
+  background-size: 100% 100%;
+  height: 6px;
+  left: 235px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 42px;
+}
+
+.calendar-2 .underline_06-ur51bv {
+  --z-index: 4;
+  background-color: transparent;
+  background-image: url(../img/underline-06-1@2x.svg);
+  background-size: 100% 100%;
+  height: 6px;
+  left: 273px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 42px;
+}
+
+.calendar-2 .underline_06-wlMi8f {
+  --z-index: 5;
+  background-color: transparent;
+  background-image: url(../img/underline-06-1@2x.svg);
+  background-size: 100% 100%;
+  height: 6px;
+  left: 311px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 42px;
+}
+
+.calendar-2 .underline_06-KHn6Qc {
+  --z-index: 6;
+  background-color: transparent;
+  background-image: url(../img/underline-06-1@2x.svg);
+  background-size: 100% 100%;
+  height: 6px;
+  left: 349px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 42px;
+}
+
+.calendar-2 .underline_06-6UujYQ {
+  --z-index: 7;
+  background-color: transparent;
+  background-image: url(../img/underline-06-1@2x.svg);
+  background-size: 100% 100%;
+  height: 6px;
+  left: 387px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 42px;
+}
+
+.calendar-2 .underline_06-6Hvcgn {
+  --z-index: 8;
+  background-color: transparent;
+  background-image: url(../img/underline-06-1@2x.svg);
+  background-size: 100% 100%;
+  height: 6px;
+  left: 425px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 42px;
+}
+
+.calendar-2 .underline_06-Yl6O4v {
+  --z-index: 9;
+  background-color: transparent;
+  background-image: url(../img/underline-06-1@2x.svg);
+  background-size: 100% 100%;
+  height: 6px;
+  left: 463px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 42px;
+}
+
+.calendar-2 .cafe-astrology-is-br-iPe1yZ {
+  --z-index: 10;
+  background-color: transparent;
+  color: #f6e7c6;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: 157px;
+  left: 181px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 166px;
+  width: 297px;
+}
+
+.calendar-2 .home-iPe1yZ {
+  --z-index: 11;
+  background-color: transparent;
+  color: #f6e7c6;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: 38px;
+  left: 295px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  text-shadow: 0px 0px 4px #f6e7c6;
+  top: 352px;
+  width: 69px;
+}
+
+.calendar-2 .about-us-iPe1yZ {
+  --z-index: 12;
+  background-color: transparent;
+  color: #f6e7c6;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: 38px;
+  left: 295px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  text-shadow: 0px 0px 4px #f6e7c6;
+  top: 397px;
+  width: 69px;
+}
+
+.calendar-2 .contact-us-iPe1yZ {
+  --z-index: 13;
+  background-color: transparent;
+  color: #f6e7c6;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: 38px;
+  left: 288px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  text-shadow: 0px 0px 4px #f6e7c6;
+  top: 442px;
+  width: 82px;
+}
+
+.calendar-2 .terms-of-use-iPe1yZ {
+  --z-index: 14;
+  background-color: transparent;
+  color: #f6e7c6;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: 38px;
+  left: 277px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  text-shadow: 0px 0px 4px #f6e7c6;
+  top: 487px;
+  width: 104px;
+}
+
+.calendar-2 .fa-qs-iPe1yZ {
+  --z-index: 15;
+  background-color: transparent;
+  color: #f6e7c6;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: 38px;
+  left: 295px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  text-shadow: 0px 0px 4px #f6e7c6;
+  top: 532px;
+  width: 69px;
+}
+
+.calendar-2 .site-news-iPe1yZ {
+  --z-index: 16;
+  background-color: transparent;
+  color: #f6e7c6;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: 38px;
+  left: 289px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  text-shadow: 0px 0px 4px #f6e7c6;
+  top: 577px;
+  width: 80px;
+}
+
+.calendar-2 .x2022-cafeastrologyco-iPe1yZ {
+  --z-index: 17;
+  -webkit-text-stroke: 0.30000001192092896px #f6e7c6;
+  background-color: transparent;
+  color: #f6e7c6;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: 38px;
+  left: 161px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 750px;
+  width: 336px;
+}
+
+.calendar-2 .frame-42-iPe1yZ {
+  --z-index: 18;
+  background-color: transparent;
+  height: 122px;
+  left: 263px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  overflow: hidden;
+  position: absolute;
+  top: 32px;
+  width: 132px;
+}
+
+.calendar-2 .ellipse-1-I6oVVv {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/ellipse-1@2x.svg);
+  background-size: 100% 100%;
+  height: 125px;
+  left: 5px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: -1px;
+  width: 125px;
+}
+
+.calendar-2 .astrology-I6oVVv {
+  --z-index: 1;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Fredericka the Great', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 16px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 37px;
+  width: auto;
+}
+
+.calendar-2 .cafe-I6oVVv {
+  --z-index: 2;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'WindSong', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: 22px;
+  left: 48px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 15px;
+  width: auto;
+}
+
+.calendar-2 .group-I6oVVv {
+  --z-index: 3;
+  background-color: transparent;
+  height: 54px;
+  left: 12px;
+  opacity: 1;
+  position: absolute;
+  top: 61px;
+  width: 159px;
+}
+
+.calendar-2 .a-5SRQFx {
+  --z-index: 0;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 2px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  width: 6px;
+}
+
+.calendar-2 .s-5SRQFx {
+  --z-index: 1;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 4px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 7px;
+  width: 3px;
+}
+
+.calendar-2 .t-5SRQFx {
+  --z-index: 2;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 13px;
+  width: 3px;
+}
+
+.calendar-2 .r-5SRQFx {
+  --z-index: 3;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 18px;
+  width: 3px;
+}
+
+.calendar-2 .o-5SRQFx {
+  --z-index: 4;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 12px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 24px;
+  width: 4px;
+}
+
+.calendar-2 .l-5SRQFx {
+  --z-index: 5;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 29px;
+  width: 2px;
+}
+
+.calendar-2 .o-PpVkxJ {
+  --z-index: 6;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 20px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 34px;
+  width: 4px;
+}
+
+.calendar-2 .g-5SRQFx {
+  --z-index: 7;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 26px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 38px;
+  width: 4px;
+}
+
+.calendar-2 .y-5SRQFx {
+  --z-index: 8;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 41px;
+  width: 4px;
+}
+
+.calendar-2 .text_label-5SRQFx {
+  --z-index: 9;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 40px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 44px;
+  width: 2px;
+}
+
+.calendar-2 .c-5SRQFx {
+  --z-index: 10;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 45px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 45px;
+  width: 3px;
+}
+
+.calendar-2 .h-5SRQFx {
+  --z-index: 11;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 51px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 46px;
+  width: 5px;
+}
+
+.calendar-2 .a-PpVkxJ {
+  --z-index: 12;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 59px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 45px;
+  width: 3px;
+}
+
+.calendar-2 .r-PpVkxJ {
+  --z-index: 13;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 66px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 44px;
+  width: 3px;
+}
+
+.calendar-2 .t-PpVkxJ {
+  --z-index: 14;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 72px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 42px;
+  width: 3px;
+}
+
+.calendar-2 .s-PpVkxJ {
+  --z-index: 15;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 78px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 40px;
+  width: 3px;
+}
+
+.calendar-2 .text_label-PpVkxJ {
+  --z-index: 16;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 84px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 37px;
+  width: 2px;
+}
+
+.calendar-2 .x-5SRQFx {
+  --z-index: 17;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 87px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 32px;
+  width: 6px;
+}
+
+.calendar-2 .text_label-6RbQTC {
+  --z-index: 18;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 94px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 27px;
+  width: 2px;
+}
+
+.calendar-2 .t-6RbQTC {
+  --z-index: 19;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 97px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: 3px;
+}
+
+.calendar-2 .o-6RbQTC {
+  --z-index: 20;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 99px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 17px;
+  width: 4px;
+}
+
+.calendar-2 .o-aqnxZg {
+  --z-index: 21;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 102px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  width: 4px;
+}
+
+.calendar-2 .l-PpVkxJ {
+  --z-index: 22;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 105px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: 2px;
+}
+
+.calendar-2 .s-6RbQTC {
+  --z-index: 23;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 105px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: -2px;
+  width: 3px;
+}
+
+.calendar-2 .kisspng-astronaut-sp-I6oVVv {
+  --z-index: 4;
+  background-color: transparent;
+  background-image: url(../img/kisspng-astronaut-space-suit-outer-space-cartoon-astronauta-ni-n@2x.png);
+  background-size: 100% 100%;
+  height: 67px;
+  left: 33px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 46px;
+  width: 67px;
+}
+
+.calendar-2 .x-I6oVVv {
+  --z-index: 5;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'WindSong', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: 22px;
+  left: 84px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 15px;
+  transform: rotate(-180deg);
+  width: auto;
+}
+
+.calendar-2 .group-86-iPe1yZ {
+  --z-index: 19;
+  background-color: transparent;
+  height: 72px;
+  left: 283px;
+  opacity: 1;
+  position: absolute;
+  top: 644px;
+  width: 94px;
+}
+
+.calendar-2 .back-to-top-f6D4DJ {
+  --z-index: 0;
+  background-color: transparent;
+  color: #f6e7c6;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: 38px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  text-shadow: 0px 0px 4px #f6e7c6;
+  top: 34px;
+  width: 92px;
+}
+
+.calendar-2 .x111-f6D4DJ {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/111@2x.svg);
+  background-size: 100% 100%;
+  height: 46px;
+  left: 33px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: -1px;
+  width: 24px;
+}
+
+.calendar-2 .footer-VMr6Om {
+  --z-index: 6;
+  background-color: transparent;
+  height: 967px;
+  left: -140px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 1117px;
+  width: 553px;
+}
+
+.calendar-2 .kisspng-drawing-we-h-hQ1xct {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/kisspng-drawing-we-heart-it-sketch-astronaut-5a79a4b7199b21-1@1x.png);
+  background-size: 100% 100%;
+  height: 960px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 7px;
+  width: 553px;
+}
+
+.calendar-2 .underline_06-hQ1xct {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/underline-06@2x.svg);
+  background-size: 100% 100%;
+  height: 6px;
+  left: 158px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 40px;
+}
+
+.calendar-2 .underline_06-eB7dDj {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/underline-06-1@2x.svg);
+  background-size: 100% 100%;
+  height: 6px;
+  left: 197px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 42px;
+}
+
+.calendar-2 .underline_06-8Korm8 {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/underline-06-1@2x.svg);
+  background-size: 100% 100%;
+  height: 6px;
+  left: 235px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 42px;
+}
+
+.calendar-2 .underline_06-Vhbn9V {
+  --z-index: 4;
+  background-color: transparent;
+  background-image: url(../img/underline-06-1@2x.svg);
+  background-size: 100% 100%;
+  height: 6px;
+  left: 273px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 42px;
+}
+
+.calendar-2 .underline_06-9c0AvX {
+  --z-index: 5;
+  background-color: transparent;
+  background-image: url(../img/underline-06-1@2x.svg);
+  background-size: 100% 100%;
+  height: 6px;
+  left: 311px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 42px;
+}
+
+.calendar-2 .underline_06-7ghOpx {
+  --z-index: 6;
+  background-color: transparent;
+  background-image: url(../img/underline-06-1@2x.svg);
+  background-size: 100% 100%;
+  height: 6px;
+  left: 349px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 42px;
+}
+
+.calendar-2 .underline_06-LNx6ex {
+  --z-index: 7;
+  background-color: transparent;
+  background-image: url(../img/underline-06-1@2x.svg);
+  background-size: 100% 100%;
+  height: 6px;
+  left: 387px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 42px;
+}
+
+.calendar-2 .underline_06-kdAMXJ {
+  --z-index: 8;
+  background-color: transparent;
+  background-image: url(../img/underline-06-1@2x.svg);
+  background-size: 100% 100%;
+  height: 6px;
+  left: 425px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 42px;
+}
+
+.calendar-2 .underline_06-Z1Ezel {
+  --z-index: 9;
+  background-color: transparent;
+  background-image: url(../img/underline-06-1@2x.svg);
+  background-size: 100% 100%;
+  height: 6px;
+  left: 463px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 42px;
+}
+
+.calendar-2 .cafe-astrology-is-br-hQ1xct {
+  --z-index: 10;
+  background-color: transparent;
+  color: #f6e7c6;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: 157px;
+  left: 181px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 166px;
+  width: 297px;
+}
+
+.calendar-2 .home-hQ1xct {
+  --z-index: 11;
+  background-color: transparent;
+  color: #f6e7c6;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: 38px;
+  left: 295px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  text-shadow: 0px 0px 4px #f6e7c6;
+  top: 352px;
+  width: 69px;
+}
+
+.calendar-2 .about-us-hQ1xct {
+  --z-index: 12;
+  background-color: transparent;
+  color: #f6e7c6;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: 38px;
+  left: 295px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  text-shadow: 0px 0px 4px #f6e7c6;
+  top: 397px;
+  width: 69px;
+}
+
+.calendar-2 .contact-us-hQ1xct {
+  --z-index: 13;
+  background-color: transparent;
+  color: #f6e7c6;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: 38px;
+  left: 288px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  text-shadow: 0px 0px 4px #f6e7c6;
+  top: 442px;
+  width: 82px;
+}
+
+.calendar-2 .terms-of-use-hQ1xct {
+  --z-index: 14;
+  background-color: transparent;
+  color: #f6e7c6;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: 38px;
+  left: 277px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  text-shadow: 0px 0px 4px #f6e7c6;
+  top: 487px;
+  width: 104px;
+}
+
+.calendar-2 .fa-qs-hQ1xct {
+  --z-index: 15;
+  background-color: transparent;
+  color: #f6e7c6;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: 38px;
+  left: 295px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  text-shadow: 0px 0px 4px #f6e7c6;
+  top: 532px;
+  width: 69px;
+}
+
+.calendar-2 .site-news-hQ1xct {
+  --z-index: 16;
+  background-color: transparent;
+  color: #f6e7c6;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: 38px;
+  left: 289px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  text-shadow: 0px 0px 4px #f6e7c6;
+  top: 577px;
+  width: 80px;
+}
+
+.calendar-2 .x2022-cafeastrologyco-hQ1xct {
+  --z-index: 17;
+  -webkit-text-stroke: 0.30000001192092896px #f6e7c6;
+  background-color: transparent;
+  color: #f6e7c6;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: 38px;
+  left: 161px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 750px;
+  width: 336px;
+}
+
+.calendar-2 .frame-42-hQ1xct {
+  --z-index: 18;
+  background-color: transparent;
+  height: 122px;
+  left: 263px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  overflow: hidden;
+  position: absolute;
+  top: 32px;
+  width: 132px;
+}
+
+.calendar-2 .ellipse-1-xVfGJ7 {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/ellipse-1-1@2x.svg);
+  background-size: 100% 100%;
+  height: 125px;
+  left: 5px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: -1px;
+  width: 125px;
+}
+
+.calendar-2 .astrology-xVfGJ7 {
+  --z-index: 1;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Fredericka the Great', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 16px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 37px;
+  width: auto;
+}
+
+.calendar-2 .cafe-xVfGJ7 {
+  --z-index: 2;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'WindSong', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: 22px;
+  left: 48px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 15px;
+  width: auto;
+}
+
+.calendar-2 .group-xVfGJ7 {
+  --z-index: 3;
+  background-color: transparent;
+  height: 54px;
+  left: 12px;
+  opacity: 1;
+  position: absolute;
+  top: 61px;
+  width: 159px;
+}
+
+.calendar-2 .a-OLmfB7 {
+  --z-index: 0;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 2px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  width: 6px;
+}
+
+.calendar-2 .s-OLmfB7 {
+  --z-index: 1;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 4px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 7px;
+  width: 3px;
+}
+
+.calendar-2 .t-OLmfB7 {
+  --z-index: 2;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 13px;
+  width: 3px;
+}
+
+.calendar-2 .r-OLmfB7 {
+  --z-index: 3;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 18px;
+  width: 3px;
+}
+
+.calendar-2 .o-OLmfB7 {
+  --z-index: 4;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 12px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 24px;
+  width: 4px;
+}
+
+.calendar-2 .l-OLmfB7 {
+  --z-index: 5;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 29px;
+  width: 2px;
+}
+
+.calendar-2 .o-XXQMqt {
+  --z-index: 6;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 20px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 34px;
+  width: 4px;
+}
+
+.calendar-2 .g-OLmfB7 {
+  --z-index: 7;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 26px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 38px;
+  width: 4px;
+}
+
+.calendar-2 .y-OLmfB7 {
+  --z-index: 8;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 41px;
+  width: 4px;
+}
+
+.calendar-2 .text_label-OLmfB7 {
+  --z-index: 9;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 40px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 44px;
+  width: 2px;
+}
+
+.calendar-2 .c-OLmfB7 {
+  --z-index: 10;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 45px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 45px;
+  width: 3px;
+}
+
+.calendar-2 .h-OLmfB7 {
+  --z-index: 11;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 51px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 46px;
+  width: 5px;
+}
+
+.calendar-2 .a-XXQMqt {
+  --z-index: 12;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 59px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 45px;
+  width: 3px;
+}
+
+.calendar-2 .r-XXQMqt {
+  --z-index: 13;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 66px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 44px;
+  width: 3px;
+}
+
+.calendar-2 .t-XXQMqt {
+  --z-index: 14;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 72px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 42px;
+  width: 3px;
+}
+
+.calendar-2 .s-XXQMqt {
+  --z-index: 15;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 78px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 40px;
+  width: 3px;
+}
+
+.calendar-2 .text_label-XXQMqt {
+  --z-index: 16;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 84px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 37px;
+  width: 2px;
+}
+
+.calendar-2 .x-OLmfB7 {
+  --z-index: 17;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 87px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 32px;
+  width: 6px;
+}
+
+.calendar-2 .text_label-b1xlxs {
+  --z-index: 18;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 94px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 27px;
+  width: 2px;
+}
+
+.calendar-2 .t-b1xlxs {
+  --z-index: 19;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 97px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: 3px;
+}
+
+.calendar-2 .o-b1xlxs {
+  --z-index: 20;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 99px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 17px;
+  width: 4px;
+}
+
+.calendar-2 .o-DqorTL {
+  --z-index: 21;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 102px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  width: 4px;
+}
+
+.calendar-2 .l-XXQMqt {
+  --z-index: 22;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 105px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: 2px;
+}
+
+.calendar-2 .s-b1xlxs {
+  --z-index: 23;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 105px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: -2px;
+  width: 3px;
+}
+
+.calendar-2 .kisspng-astronaut-sp-xVfGJ7 {
+  --z-index: 4;
+  background-color: transparent;
+  background-image: url(../img/kisspng-astronaut-space-suit-outer-space-cartoon-astronauta-ni-n@2x.png);
+  background-size: 100% 100%;
+  height: 67px;
+  left: 33px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 46px;
+  width: 67px;
+}
+
+.calendar-2 .x-xVfGJ7 {
+  --z-index: 5;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'WindSong', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: 22px;
+  left: 84px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 15px;
+  transform: rotate(-180deg);
+  width: auto;
+}
+
+.calendar-2 .group-86-hQ1xct {
+  --z-index: 19;
+  background-color: transparent;
+  cursor: pointer;
+  height: 72px;
+  left: 283px;
+  opacity: 1;
+  pointer-events: auto;
+  position: absolute;
+  top: 644px;
+  transition: all 0.2s ease;
+  width: 94px;
+}
+
+.calendar-2 .group-86-hQ1xct:hover {
+  transform: translate(0, -5px);
+}
+
+.calendar-2 .back-to-top-BvLxbx {
+  --z-index: 0;
+  background-color: transparent;
+  color: #f6e7c6;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: 38px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  text-shadow: 0px 0px 4px #f6e7c6;
+  top: 34px;
+  width: 92px;
+}
+
+.calendar-2 .x111-BvLxbx {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/111-1@2x.svg);
+  background-size: 100% 100%;
+  height: 46px;
+  left: 33px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: -1px;
+  width: 24px;
+}
+
+.calendar-2 .component-22-C61RwL {
+  --z-index: 7;
+  background-color: transparent;
+  height: 144px;
+  left: 93px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 958px;
+  width: 188px;
+}
+
+.calendar-2 .component-10-JOeIWP {
+  --z-index: 0;
+  background-color: transparent;
+  height: 118px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 188px;
+}
+
+.calendar-2 .component-1-7x5NZ4 {
+  --z-index: 0;
+  background-color: transparent;
+  height: 34px;
+  left: 14px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 160px;
+}
+
+.calendar-2 .rectangle-2-Vxtm72 {
+  --z-index: 0;
+  background-color: #f6e7c6;
+  border-radius: 10px;
+  height: 34px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 160px;
+}
+
+.calendar-2 .share-Vxtm72 {
+  --z-index: 1;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 51px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 5px;
+  width: auto;
+}
+
+.calendar-2 .share-in-your-social-networks-7x5NZ4 {
+  --z-index: 1;
+  background-color: transparent;
+  color: #f6e7c6;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 43px;
+  width: auto;
+}
+
+.calendar-2 .frame-2-7x5NZ4 {
+  --z-index: 2;
+  background-color: transparent;
+  height: 54px;
+  left: 12px;
+  opacity: 1;
+  position: absolute;
+  top: 64px;
+  width: 163px;
+}
+
+.calendar-2 .group-2-7Qpgog {
+  --z-index: 0;
+  background-color: transparent;
+  height: 44px;
+  left: 5px;
+  opacity: 1;
+  position: absolute;
+  top: 5px;
+  width: 46px;
+}
+
+.calendar-2 .ellipse-1-SdCodE {
+  --z-index: 0;
+  background-color: transparent;
+  border: 3px solid #f6e7c6;
+  border-radius: 23px/22px;
+  height: 44px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 46px;
+}
+
+.calendar-2 .facebook-SdCodE {
+  --z-index: 1;
+  background-color: transparent;
+  color: #f6e7c6;
+  font-family: 'Font Awesome 5 Brands-Regular', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: auto;
+}
+
+.calendar-2 .group-2-ktMLdI {
+  --z-index: 1;
+  background-color: transparent;
+  height: 44px;
+  left: 59px;
+  opacity: 1;
+  position: absolute;
+  top: 5px;
+  width: 45px;
+}
+
+.calendar-2 .ellipse-1-XHw9WW {
+  --z-index: 0;
+  background-color: transparent;
+  border: 3px solid #f6e7c6;
+  border-radius: 22.5px/22px;
+  height: 44px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 45px;
+}
+
+.calendar-2 .instagram-XHw9WW {
+  --z-index: 1;
+  background-color: transparent;
+  color: #f6e7c6;
+  font-family: 'Font Awesome 5 Brands-Regular', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 10px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 5px;
+  width: 26px;
+}
+
+.calendar-2 .group-2-kJ7SE3 {
+  --z-index: 2;
+  background-color: transparent;
+  height: 44px;
+  left: 112px;
+  opacity: 1;
+  position: absolute;
+  top: 5px;
+  width: 46px;
+}
+
+.calendar-2 .ellipse-1-Axa6PA {
+  --z-index: 0;
+  background-color: transparent;
+  border: 3px solid #f6e7c6;
+  border-radius: 23px/22px;
+  height: 44px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 46px;
+}
+
+.calendar-2 .twitter-Axa6PA {
+  --z-index: 1;
+  background-color: transparent;
+  color: #f6e7c6;
+  font-family: 'Font Awesome 5 Brands-Regular', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 4px;
+  width: auto;
+}
+
+.calendar-2 .dont-forget-to-bookmark-us-JOeIWP {
+  --z-index: 1;
+  background-color: transparent;
+  color: #f6e7c6;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 127px;
+  width: auto;
+}
+
+.calendar-2 .component-23-C61RwL {
+  --z-index: 8;
+  background-color: transparent;
+  height: 144px;
+  left: 93px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 958px;
+  width: 188px;
+}
+
+.calendar-2 .component-10-9ik5Q1 {
+  --z-index: 0;
+  background-color: transparent;
+  height: 118px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 188px;
+}
+
+.calendar-2 .component-1-STixpi {
+  --z-index: 0;
+  background-color: transparent;
+  height: 34px;
+  left: 14px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 160px;
+}
+
+.calendar-2 .rectangle-2-72Eo6X {
+  --z-index: 0;
+  background-color: #f6e7c6;
+  border-radius: 10px;
+  height: 34px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 160px;
+}
+
+.calendar-2 .share-72Eo6X {
+  --z-index: 1;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 51px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 5px;
+  width: auto;
+}
+
+.calendar-2 .share-in-your-social-networks-STixpi {
+  --z-index: 1;
+  background-color: transparent;
+  color: #f6e7c6;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 43px;
+  width: auto;
+}
+
+.calendar-2 .frame-2-STixpi {
+  --z-index: 2;
+  background-color: transparent;
+  height: 54px;
+  left: 12px;
+  opacity: 1;
+  position: absolute;
+  top: 64px;
+  width: 163px;
+}
+
+.calendar-2 .group-2-bXnqUI {
+  --z-index: 0;
+  background-color: transparent;
+  height: 44px;
+  left: 5px;
+  opacity: 1;
+  position: absolute;
+  top: 5px;
+  width: 46px;
+}
+
+.calendar-2 .ellipse-1-FioKlU {
+  --z-index: 0;
+  background-color: transparent;
+  border: 3px solid #f6e7c6;
+  border-radius: 23px/22px;
+  height: 44px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 46px;
+}
+
+.calendar-2 .facebook-FioKlU {
+  --z-index: 1;
+  background-color: transparent;
+  color: #f6e7c6;
+  font-family: 'Font Awesome 5 Brands-Regular', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: auto;
+}
+
+.calendar-2 .group-2-lOAdS0 {
+  --z-index: 1;
+  background-color: transparent;
+  height: 44px;
+  left: 59px;
+  opacity: 1;
+  position: absolute;
+  top: 5px;
+  width: 45px;
+}
+
+.calendar-2 .ellipse-1-jXlsls {
+  --z-index: 0;
+  background-color: transparent;
+  border: 3px solid #f6e7c6;
+  border-radius: 22.5px/22px;
+  height: 44px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 45px;
+}
+
+.calendar-2 .instagram-jXlsls {
+  --z-index: 1;
+  background-color: transparent;
+  color: #f6e7c6;
+  font-family: 'Font Awesome 5 Brands-Regular', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 10px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 5px;
+  width: 26px;
+}
+
+.calendar-2 .group-2-tzNCan {
+  --z-index: 2;
+  background-color: transparent;
+  height: 44px;
+  left: 112px;
+  opacity: 1;
+  position: absolute;
+  top: 5px;
+  width: 46px;
+}
+
+.calendar-2 .ellipse-1-nzvzOO {
+  --z-index: 0;
+  background-color: transparent;
+  border: 3px solid #f6e7c6;
+  border-radius: 23px/22px;
+  height: 44px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 46px;
+}
+
+.calendar-2 .twitter-nzvzOO {
+  --z-index: 1;
+  background-color: transparent;
+  color: #f6e7c6;
+  font-family: 'Font Awesome 5 Brands-Regular', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 4px;
+  width: auto;
+}
+
+.calendar-2 .dont-forget-to-bookmark-us-9ik5Q1 {
+  --z-index: 1;
+  background-color: transparent;
+  color: #f6e7c6;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 127px;
+  width: auto;
+}
+/* screen - homepage */
+
+.homepage {
+  background-color: #282828;
+  height: 2922px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 375px;
+}
+
+.homepage .carousel-C61RwL {
+  --z-index: 0;
+  background-color: transparent;
+  height: 220px;
+  left: -15px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 306px;
+  width: 1237px;
+}
+
+.homepage .carousel-4cPTjE {
+  --z-index: 0;
+  background-color: transparent;
+  height: 220px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 375px;
+}
+
+.homepage .frame-41-4cPTjE {
+  --z-index: 1;
+  background-color: transparent;
+  height: 220px;
+  left: 37px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 1200px;
+}
+
+.homepage .frame-37-YHN8fx {
+  --z-index: 0;
+  background-color: #f6e7c6;
+  border-radius: 20px;
+  height: 220px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 220px;
+}
+
+.homepage .kisspng-aries-astrol-YhYHxT {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/kisspng-aries-astrological-sign-symbol-horoscope-vector-illustra@2x.png);
+  background-size: 100% 100%;
+  height: 100px;
+  left: 40px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 26px;
+  width: 141px;
+}
+
+.homepage .rectangle-53-YhYHxT {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/rectangle-53@2x.svg);
+  background-size: 100% 100%;
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 145px;
+  width: 220px;
+}
+
+.homepage .aries-YhYHxT {
+  --z-index: 2;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Fredericka the Great', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  height: 39px;
+  left: 73px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 151px;
+  width: 75px;
+}
+
+.homepage .march-21-april-16-YhYHxT {
+  --z-index: 3;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: 25px;
+  left: 16px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 190px;
+  width: 188px;
+}
+
+.homepage .frame-38-YHN8fx {
+  --z-index: 1;
+  background-color: #f6e7c6;
+  border-radius: 20px;
+  height: 220px;
+  left: 245px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 220px;
+}
+
+.homepage .rectangle-53-KPuydH {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/rectangle-53@2x.svg);
+  background-size: 100% 100%;
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 145px;
+  width: 220px;
+}
+
+.homepage .kisspng-taurus-astro-KPuydH {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/kisspng-taurus-astrological-sign-symbol-zodiac-taureau-5b18a6e44@2x.png);
+  background-size: 100% 100%;
+  height: 107px;
+  left: 36px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 23px;
+  width: 148px;
+}
+
+.homepage .taurus-KPuydH {
+  --z-index: 2;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Fredericka the Great', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  height: 33px;
+  left: 58px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 156px;
+  width: 105px;
+}
+
+.homepage .april-20-may-20-KPuydH {
+  --z-index: 3;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: 22px;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 189px;
+  width: 173px;
+}
+
+.homepage .frame-38-XzOHvJ {
+  --z-index: 2;
+  background-color: #f6e7c6;
+  border-radius: 20px;
+  height: 220px;
+  left: 490px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 220px;
+}
+
+.homepage .rectangle-53-WoGhbe {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/rectangle-53@2x.svg);
+  background-size: 100% 100%;
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 145px;
+  width: 220px;
+}
+
+.homepage .kisspng-gemini-twin-WoGhbe {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/kisspng-gemini-twin-astrological-sign-zodiac-astrology-gemini-pn@2x.png);
+  background-size: 100% 100%;
+  height: 115px;
+  left: 62px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 13px;
+  width: 96px;
+}
+
+.homepage .gemini-WoGhbe {
+  --z-index: 2;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Fredericka the Great', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  height: 33px;
+  left: 56px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 155px;
+  width: 108px;
+}
+
+.homepage .may-21-jun-21-WoGhbe {
+  --z-index: 3;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: 22px;
+  left: 34px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 190px;
+  width: 152px;
+}
+
+.homepage .frame-39-YHN8fx {
+  --z-index: 3;
+  background-color: #f6e7c6;
+  border-radius: 20px;
+  height: 220px;
+  left: 735px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 220px;
+}
+
+.homepage .rectangle-53-pwxvhJ {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/rectangle-53@2x.svg);
+  background-size: 100% 100%;
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 145px;
+  width: 220px;
+}
+
+.homepage .kisspng-cancer-astro-pwxvhJ {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/kisspng-cancer-astrological-sign-zodiac-horoscope-sun-sign-cance@2x.png);
+  background-size: 100% 100%;
+  height: 104px;
+  left: 40px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 21px;
+  width: 141px;
+}
+
+.homepage .cancer-pwxvhJ {
+  --z-index: 2;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Fredericka the Great', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  height: 33px;
+  left: 56px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 156px;
+  width: 106px;
+}
+
+.homepage .june-22-july-22-pwxvhJ {
+  --z-index: 3;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: 22px;
+  left: 29px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 189px;
+  width: 161px;
+}
+
+.homepage .frame-40-YHN8fx {
+  --z-index: 4;
+  background-color: #f6e7c6;
+  border-radius: 20px;
+  height: 220px;
+  left: 980px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 220px;
+}
+
+.homepage .rectangle-53-C1OYgV {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/rectangle-53@2x.svg);
+  background-size: 100% 100%;
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 145px;
+  width: 220px;
+}
+
+.homepage .kisspng-leo-horoscop-C1OYgV {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/kisspng-leo-horoscope-zodiac-astrological-sign-libra-leo-zodiac-@2x.png);
+  background-size: 100% 100%;
+  height: 104px;
+  left: 53px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 25px;
+  width: 113px;
+}
+
+.homepage .leo-C1OYgV {
+  --z-index: 2;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Fredericka the Great', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  height: 33px;
+  left: 79px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 156px;
+  width: 61px;
+}
+
+.homepage .july-23-august-22-C1OYgV {
+  --z-index: 3;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: 22px;
+  left: 16px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 189px;
+  width: 187px;
+}
+
+.homepage .kisspng-planet-water-C61RwL {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/kisspng-planet-watercolor-painting-illustration-planet-5a7aeb9e3@1x.png);
+  background-size: 100% 100%;
+  display: block;
+  height: 616px;
+  left: 106px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  top: 1448px;
+  transform: translate(25px, 0);
+  width: 616px;
+}
+
+.homepage .kisspng-planet-water-C61RwL.animate-enter {
+  animation: animate-enter-frames 0.80s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(25px, 0);
+}
+
+@keyframes animate-enter-frames {
+  from{opacity: 0;
+transform: translate(25px, 0);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.homepage .kisspng-hand-art-aes-C61RwL {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/kisspng-hand-art-aesthetics-finger-thumb-aesthetic-5ace7d8006f43@1x.png);
+  background-size: 100% 100%;
+  display: block;
+  height: 506px;
+  left: -93px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  top: 878px;
+  transform: translate(-25px, 0);
+  width: 373px;
+}
+
+.homepage .kisspng-hand-art-aes-C61RwL.animate-enter1 {
+  animation: animate-enter1-frames 0.80s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(-25px, 0);
+}
+
+@keyframes animate-enter1-frames {
+  from{opacity: 0;
+transform: translate(-25px, 0);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.homepage .kisspng-drawing-we-h-C61RwL {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/kisspng-drawing-we-heart-it-sketch-astronaut-5a79a4b7199b21-1@1x.png);
+  background-size: 100% 100%;
+  height: 960px;
+  left: -142px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 2130px;
+  width: 553px;
+}
+
+.homepage .finger-swipe-right-C61RwL {
+  --z-index: 4;
+  background-color: transparent;
+  background-image: url(../img/finger-swipe-right@2x.svg);
+  background-size: 100% 100%;
+  height: 49px;
+  left: 176px;
+  opacity: 1;
+  position: absolute;
+  top: 539px;
+  width: 49px;
+}
+
+.homepage .horoscopes-C61RwL {
+  --z-index: 5;
+  background-color: transparent;
+  color: #f6e7c6;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: 25px;
+  left: -32px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 681px;
+  transform: rotate(-90.00deg);
+  width: auto;
+}
+
+.homepage .shop-C61RwL {
+  --z-index: 6;
+  background-color: transparent;
+  color: #f6e7c6;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: 25px;
+  left: -3px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 1258px;
+  transform: rotate(-90.00deg);
+  width: auto;
+}
+
+.homepage .rectangle-45-C61RwL {
+  --z-index: 7;
+  background-color: transparent;
+  background-image: url(../img/rectangle-45@2x.png);
+  background-size: 100% 100%;
+  height: 122px;
+  left: 205px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 1248px;
+  width: 160px;
+}
+
+.homepage .sky-within-report-C61RwL {
+  --z-index: 8;
+  -webkit-text-stroke: 0.30000001192092896px #f6e7c6;
+  background-color: transparent;
+  color: #f6e7c6;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 212px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 1620px;
+  width: auto;
+}
+
+.homepage .component-27-C61RwL {
+  --z-index: 9;
+  background-color: transparent;
+  height: 243px;
+  left: 39px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 1247px;
+  width: 162px;
+}
+
+.homepage .rectangle-38-d9Zf9x {
+  --z-index: 0;
+  background-color: #282828;
+  border: 1px solid #f6e7c6;
+  border-radius: 10px;
+  box-shadow: 0px 0px 4px #f6e7c6;
+  height: 243px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 162px;
+}
+
+.homepage .rectangle-42-d9Zf9x {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/rectangle-42@2x.png);
+  background-size: 100% 100%;
+  height: 122px;
+  left: 1px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 1px;
+  width: 160px;
+}
+
+.homepage .future-forecast-d9Zf9x {
+  --z-index: 2;
+  -webkit-text-stroke: 0.30000001192092896px #f6e7c6;
+  background-color: transparent;
+  color: #f6e7c6;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 7px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 127px;
+  width: auto;
+}
+
+.homepage .lorem-ipsum-dolor-si-d9Zf9x {
+  --z-index: 3;
+  background-color: transparent;
+  color: #f6e7c6;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: 80px;
+  left: 7px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 157px;
+  width: 125px;
+}
+
+.homepage .component-25-C61RwL {
+  --z-index: 10;
+  background-color: transparent;
+  height: 243px;
+  left: 39px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 882px;
+  width: 162px;
+}
+
+.homepage .rectangle-34-ZsLd5b {
+  --z-index: 0;
+  background-color: #282828;
+  border: 1px solid #f6e7c6;
+  border-radius: 10px;
+  box-shadow: 0px 0px 4px #f6e7c6;
+  height: 243px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 162px;
+}
+
+.homepage .rectangle-35-ZsLd5b {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/rectangle-35@2x.png);
+  background-size: 100% 100%;
+  height: 122px;
+  left: 1px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 1px;
+  width: 160px;
+}
+
+.homepage .astrology-reports-ZsLd5b {
+  --z-index: 2;
+  -webkit-text-stroke: 0.30000001192092896px #f6e7c6;
+  background-color: transparent;
+  color: #f6e7c6;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 7px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 127px;
+  width: auto;
+}
+
+.homepage .lorem-ipsum-dolor-si-ZsLd5b {
+  --z-index: 3;
+  background-color: transparent;
+  color: #f6e7c6;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: 80px;
+  left: 7px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 157px;
+  width: 125px;
+}
+
+.homepage .component-29-C61RwL {
+  --z-index: 11;
+  background-color: transparent;
+  height: 243px;
+  left: 39px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 1493px;
+  width: 162px;
+}
+
+.homepage .rectangle-39-5mYAOI {
+  --z-index: 0;
+  background-color: #282828;
+  border: 1px solid #f6e7c6;
+  border-radius: 10px;
+  box-shadow: 0px 0px 4px #f6e7c6;
+  height: 243px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 162px;
+}
+
+.homepage .rectangle-43-5mYAOI {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/rectangle-43@2x.png);
+  background-size: 100% 100%;
+  height: 122px;
+  left: 1px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 1px;
+  width: 160px;
+}
+
+.homepage .astrology-profile-5mYAOI {
+  --z-index: 2;
+  -webkit-text-stroke: 0.30000001192092896px #f6e7c6;
+  background-color: transparent;
+  color: #f6e7c6;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 7px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 127px;
+  width: auto;
+}
+
+.homepage .lorem-ipsum-dolor-si-5mYAOI {
+  --z-index: 3;
+  background-color: transparent;
+  color: #f6e7c6;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: 80px;
+  left: 7px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 157px;
+  width: 125px;
+}
+
+.homepage .component-26-C61RwL {
+  --z-index: 12;
+  background-color: transparent;
+  height: 243px;
+  left: 205px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 882px;
+  width: 162px;
+}
+
+.homepage .rectangle-36-GEKAlJ {
+  --z-index: 0;
+  background-color: #282828;
+  border: 1px solid #f6e7c6;
+  border-radius: 10px;
+  box-shadow: 0px 0px 4px #f6e7c6;
+  height: 243px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 162px;
+}
+
+.homepage .rectangle-37-GEKAlJ {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/rectangle-37@2x.png);
+  background-size: 100% 100%;
+  height: 122px;
+  left: 1px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 1px;
+  width: 160px;
+}
+
+.homepage .birth-chart-GEKAlJ {
+  --z-index: 2;
+  -webkit-text-stroke: 0.30000001192092896px #f6e7c6;
+  background-color: transparent;
+  color: #f6e7c6;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 7px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 127px;
+  width: auto;
+}
+
+.homepage .lorem-ipsum-dolor-si-GEKAlJ {
+  --z-index: 3;
+  background-color: transparent;
+  color: #f6e7c6;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: 80px;
+  left: 7px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 157px;
+  width: 125px;
+}
+
+.homepage .component-30-C61RwL {
+  --z-index: 13;
+  background-color: transparent;
+  height: 243px;
+  left: 205px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 1493px;
+  width: 162px;
+}
+
+.homepage .rectangle-40-02ks1v {
+  --z-index: 0;
+  background-color: #282828;
+  border: 1px solid #f6e7c6;
+  border-radius: 10px;
+  box-shadow: 0px 0px 4px #f6e7c6;
+  height: 243px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 162px;
+}
+
+.homepage .rectangle-44-02ks1v {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/rectangle-44@2x.svg);
+  background-size: 100% 100%;
+  height: 122px;
+  left: 1px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 1px;
+  width: 160px;
+}
+
+.homepage .a9ffef3edc2f808749de-02ks1v {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/a9ffef3edc2f808749de9ab0309e41b9--milky-way-comic-art-1@2x.png);
+  background-size: 100% 100%;
+  height: 109px;
+  left: 40px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 7px;
+  width: 82px;
+}
+
+.homepage .lorem-ipsum-dolor-si-02ks1v {
+  --z-index: 3;
+  background-color: transparent;
+  color: #f6e7c6;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: 80px;
+  left: 7px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 157px;
+  width: 125px;
+}
+
+.homepage .rectangle-18-C61RwL {
+  --z-index: 14;
+  background-color: #f6e7c6;
+  border-radius: 20px;
+  box-shadow: 0px 0px 4px #f6e7c6;
+  height: 27px;
+  left: 211px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 1143px;
+  width: 155px;
+}
+
+.homepage .rectangle-46-C61RwL {
+  --z-index: 15;
+  background-color: #f6e7c6;
+  border-radius: 20px;
+  box-shadow: 0px 0px 4px #f6e7c6;
+  height: 27px;
+  left: 39px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 1748px;
+  width: 155px;
+}
+
+.homepage .explore-horoscopes-C61RwL {
+  --z-index: 16;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: 11px;
+  left: 218px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 1151px;
+  width: 148px;
+}
+
+.homepage .explore-our-shop-C61RwL {
+  --z-index: 17;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: 11px;
+  left: 51px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 1756px;
+  width: 131px;
+}
+
+.homepage .kisspng-visual-arts-C61RwL {
+  --z-index: 18;
+  background-color: transparent;
+  background-image: url(../img/kisspng-visual-arts-t-shirt-drawing-astronaut-astronaut-5a79a4b3@2x.png);
+  background-size: 100% 100%;
+  display: block;
+  height: 354px;
+  left: 103px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  top: -20px;
+  transform: translate(25px, 0);
+  width: 282px;
+}
+
+.homepage .kisspng-visual-arts-C61RwL.animate-enter2 {
+  animation: animate-enter2-frames 0.80s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(25px, 0);
+}
+
+@keyframes animate-enter2-frames {
+  from{opacity: 0;
+transform: translate(25px, 0);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.homepage .underline_06-C61RwL {
+  --z-index: 19;
+  background-color: transparent;
+  background-image: url(../img/underline-06@2x.svg);
+  background-size: 100% 100%;
+  height: 6px;
+  left: 16px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 2123px;
+  width: 40px;
+}
+
+.homepage .underline_06-VMr6Om {
+  --z-index: 20;
+  background-color: transparent;
+  background-image: url(../img/underline-06-1@2x.svg);
+  background-size: 100% 100%;
+  height: 6px;
+  left: 55px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 2123px;
+  width: 42px;
+}
+
+.homepage .underline_06-mzXdH9 {
+  --z-index: 21;
+  background-color: transparent;
+  background-image: url(../img/underline-06-1@2x.svg);
+  background-size: 100% 100%;
+  height: 6px;
+  left: 93px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 2123px;
+  width: 42px;
+}
+
+.homepage .underline_06-QxM5SU {
+  --z-index: 22;
+  background-color: transparent;
+  background-image: url(../img/underline-06-1@2x.svg);
+  background-size: 100% 100%;
+  height: 6px;
+  left: 131px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 2123px;
+  width: 42px;
+}
+
+.homepage .underline_06-2P4qUJ {
+  --z-index: 23;
+  background-color: transparent;
+  background-image: url(../img/underline-06-1@2x.svg);
+  background-size: 100% 100%;
+  height: 6px;
+  left: 169px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 2123px;
+  width: 42px;
+}
+
+.homepage .underline_06-qr8e7q {
+  --z-index: 24;
+  background-color: transparent;
+  background-image: url(../img/underline-06-1@2x.svg);
+  background-size: 100% 100%;
+  height: 6px;
+  left: 207px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 2123px;
+  width: 42px;
+}
+
+.homepage .underline_06-J1YQmd {
+  --z-index: 25;
+  background-color: transparent;
+  background-image: url(../img/underline-06-1@2x.svg);
+  background-size: 100% 100%;
+  height: 6px;
+  left: 245px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 2123px;
+  width: 42px;
+}
+
+.homepage .underline_06-a5WPlX {
+  --z-index: 26;
+  background-color: transparent;
+  background-image: url(../img/underline-06-1@2x.svg);
+  background-size: 100% 100%;
+  height: 6px;
+  left: 283px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 2123px;
+  width: 42px;
+}
+
+.homepage .underline_06-HlKRTo {
+  --z-index: 27;
+  background-color: transparent;
+  background-image: url(../img/underline-06-1@2x.svg);
+  background-size: 100% 100%;
+  height: 6px;
+  left: 321px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 2123px;
+  width: 42px;
+}
+
+.homepage .component-9-C61RwL {
+  --z-index: 28;
+  background-color: transparent;
+  height: 243px;
+  left: 39px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 636px;
+  width: 162px;
+}
+
+.homepage .rectangle-30-y49ok2 {
+  --z-index: 0;
+  background-color: #282828;
+  border: 1px solid #f6e7c6;
+  border-radius: 10px;
+  box-shadow: 0px 0px 4px #f6e7c6;
+  height: 243px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 162px;
+}
+
+.homepage .rectangle-31-y49ok2 {
+  --z-index: 1;
+  background-color: #c4c4c4;
+  border-radius: 10px;
+  height: 122px;
+  left: 1px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 1px;
+  width: 160px;
+}
+
+.homepage .daily-horoscopes-y49ok2 {
+  --z-index: 2;
+  -webkit-text-stroke: 0.30000001192092896px #f6e7c6;
+  background-color: transparent;
+  color: #f6e7c6;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 7px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 127px;
+  width: auto;
+}
+
+.homepage .lorem-ipsum-dolor-si-y49ok2 {
+  --z-index: 3;
+  background-color: transparent;
+  color: #f6e7c6;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: 80px;
+  left: 7px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 157px;
+  width: 125px;
+}
+
+.homepage .unsplash-nbg-qf-uv-kfe0-y49ok2 {
+  --z-index: 4;
+  background-color: transparent;
+  background-image: url(../img/unsplash-nbgqfuvkfe0@2x.png);
+  background-size: 100% 100%;
+  height: 122px;
+  left: 1px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 1px;
+  width: 160px;
+}
+
+.homepage .component-24-C61RwL {
+  --z-index: 29;
+  background-color: transparent;
+  cursor: pointer;
+  height: 246px;
+  left: 204px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  pointer-events: auto;
+  position: absolute;
+  top: 633px;
+  transition: all 0.2s ease;
+  width: 162px;
+}
+
+.homepage .component-24-C61RwL:hover {
+  transform: translate(0, -5px);
+}
+
+.homepage .component-2-6WD8qE {
+  --z-index: 0;
+  background-color: transparent;
+  border-radius: 10px;
+  height: 243px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 3px;
+  width: 162px;
+}
+
+.homepage .rectangle-32-x8OJf4 {
+  --z-index: 0;
+  background-color: #282828;
+  border: 1px solid #f6e7c6;
+  border-radius: 10px;
+  box-shadow: 0px 0px 4px #f6e7c6;
+  height: 243px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 162px;
+}
+
+.homepage .rectangle-33-x8OJf4 {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/rectangle-33@2x.png);
+  background-size: 100% 100%;
+  height: 122px;
+  left: 1px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 1px;
+  width: 160px;
+}
+
+.homepage .good-days-calendar-x8OJf4 {
+  --z-index: 2;
+  -webkit-text-stroke: 0.30000001192092896px #f6e7c6;
+  background-color: transparent;
+  color: #f6e7c6;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 7px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 127px;
+  width: auto;
+}
+
+.homepage .lorem-ipsum-dolor-si-x8OJf4 {
+  --z-index: 3;
+  background-color: transparent;
+  color: #f6e7c6;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: 80px;
+  left: 7px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 157px;
+  width: 125px;
+}
+
+.homepage .group-73-6WD8qE {
+  --z-index: 1;
+  background-color: transparent;
+  height: 130px;
+  left: 5px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 157px;
+}
+
+.homepage .kisspng-calendar-dra-xOVUgj {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/kisspng-calendar-drawing-image-vector-graphics-cartoon-5c4c5c919@2x.png);
+  background-size: 100% 100%;
+  height: 74px;
+  left: -0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: -0px;
+  width: 62px;
+}
+
+.homepage .kisspng-calendar-dra-XEi8yY {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/kisspng-calendar-drawing-image-vector-graphics-cartoon-5c4c5c919@2x.png);
+  background-size: 100% 100%;
+  height: 74px;
+  left: 45px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 28px;
+  width: 62px;
+}
+
+.homepage .kisspng-calendar-dra-yxS9y0 {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/kisspng-calendar-drawing-image-vector-graphics-cartoon-5c4c5c919@2x.png);
+  background-size: 100% 100%;
+  height: 74px;
+  left: 95px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 57px;
+  width: 62px;
+}
+
+.homepage .component-28-C61RwL {
+  --z-index: 30;
+  background-color: transparent;
+  height: 243px;
+  left: 204px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 1247px;
+  width: 162px;
+}
+
+.homepage .rectangle-41-17nGlh {
+  --z-index: 0;
+  background-color: #282828;
+  border: 1px solid #f6e7c6;
+  border-radius: 10px;
+  box-shadow: 0px 0px 4px #f6e7c6;
+  height: 243px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 162px;
+}
+
+.homepage .compatibility-17nGlh {
+  --z-index: 1;
+  -webkit-text-stroke: 0.30000001192092896px #f6e7c6;
+  background-color: transparent;
+  color: #f6e7c6;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 7px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 127px;
+  width: auto;
+}
+
+.homepage .lorem-ipsum-dolor-si-17nGlh {
+  --z-index: 2;
+  background-color: transparent;
+  color: #f6e7c6;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: 80px;
+  left: 7px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 157px;
+  width: 125px;
+}
+
+.homepage .png-item_337809-1-17nGlh {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/pngitem-337809-1@2x.png);
+  background-size: 100% 100%;
+  height: 103px;
+  left: 2px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 10px;
+  width: 159px;
+}
+
+.homepage .cafe-astrology-is-br-C61RwL {
+  --z-index: 31;
+  background-color: transparent;
+  color: #f6e7c6;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: 157px;
+  left: 39px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 2289px;
+  width: 297px;
+}
+
+.homepage .home-C61RwL {
+  --z-index: 32;
+  background-color: transparent;
+  color: #f6e7c6;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: 38px;
+  left: 153px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  text-shadow: 0px 0px 4px #f6e7c6;
+  top: 2475px;
+  width: 69px;
+}
+
+.homepage .about-us-C61RwL {
+  --z-index: 33;
+  background-color: transparent;
+  color: #f6e7c6;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: 38px;
+  left: 153px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  text-shadow: 0px 0px 4px #f6e7c6;
+  top: 2520px;
+  width: 69px;
+}
+
+.homepage .contact-us-C61RwL {
+  --z-index: 34;
+  background-color: transparent;
+  color: #f6e7c6;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: 38px;
+  left: 146px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  text-shadow: 0px 0px 4px #f6e7c6;
+  top: 2565px;
+  width: 82px;
+}
+
+.homepage .terms-of-use-C61RwL {
+  --z-index: 35;
+  background-color: transparent;
+  color: #f6e7c6;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: 38px;
+  left: 135px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  text-shadow: 0px 0px 4px #f6e7c6;
+  top: 2610px;
+  width: 104px;
+}
+
+.homepage .fa-qs-C61RwL {
+  --z-index: 36;
+  background-color: transparent;
+  color: #f6e7c6;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: 38px;
+  left: 153px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  text-shadow: 0px 0px 4px #f6e7c6;
+  top: 2655px;
+  width: 69px;
+}
+
+.homepage .site-news-C61RwL {
+  --z-index: 37;
+  background-color: transparent;
+  color: #f6e7c6;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: 38px;
+  left: 147px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  text-shadow: 0px 0px 4px #f6e7c6;
+  top: 2700px;
+  width: 80px;
+}
+
+.homepage .x2022-cafeastrologyco-C61RwL {
+  --z-index: 38;
+  -webkit-text-stroke: 0.30000001192092896px #f6e7c6;
+  background-color: transparent;
+  color: #f6e7c6;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: 38px;
+  left: 19px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 2873px;
+  width: 336px;
+}
+
+.homepage .frame-42-C61RwL {
+  --z-index: 39;
+  background-color: transparent;
+  height: 122px;
+  left: 121px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  overflow: hidden;
+  position: absolute;
+  top: 2155px;
+  width: 132px;
+}
+
+.homepage .ellipse-1-sowaWt {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/ellipse-1-2@2x.svg);
+  background-size: 100% 100%;
+  height: 125px;
+  left: 5px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: -1px;
+  width: 125px;
+}
+
+.homepage .astrology-sowaWt {
+  --z-index: 1;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Fredericka the Great', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 16px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 37px;
+  width: auto;
+}
+
+.homepage .cafe-sowaWt {
+  --z-index: 2;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'WindSong', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: 22px;
+  left: 48px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 15px;
+  width: auto;
+}
+
+.homepage .group-sowaWt {
+  --z-index: 3;
+  background-color: transparent;
+  height: 54px;
+  left: 12px;
+  opacity: 1;
+  position: absolute;
+  top: 61px;
+  width: 159px;
+}
+
+.homepage .a-P3PZGc {
+  --z-index: 0;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 2px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  width: 6px;
+}
+
+.homepage .s-P3PZGc {
+  --z-index: 1;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 4px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 7px;
+  width: 3px;
+}
+
+.homepage .t-P3PZGc {
+  --z-index: 2;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 13px;
+  width: 3px;
+}
+
+.homepage .r-P3PZGc {
+  --z-index: 3;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 18px;
+  width: 3px;
+}
+
+.homepage .o-P3PZGc {
+  --z-index: 4;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 12px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 24px;
+  width: 4px;
+}
+
+.homepage .l-P3PZGc {
+  --z-index: 5;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 29px;
+  width: 2px;
+}
+
+.homepage .o-hxwe32 {
+  --z-index: 6;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 20px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 34px;
+  width: 4px;
+}
+
+.homepage .g-P3PZGc {
+  --z-index: 7;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 26px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 38px;
+  width: 4px;
+}
+
+.homepage .y-P3PZGc {
+  --z-index: 8;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 41px;
+  width: 4px;
+}
+
+.homepage .text_label-P3PZGc {
+  --z-index: 9;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 40px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 44px;
+  width: 2px;
+}
+
+.homepage .c-P3PZGc {
+  --z-index: 10;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 45px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 45px;
+  width: 3px;
+}
+
+.homepage .h-P3PZGc {
+  --z-index: 11;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 51px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 46px;
+  width: 5px;
+}
+
+.homepage .a-hxwe32 {
+  --z-index: 12;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 59px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 45px;
+  width: 3px;
+}
+
+.homepage .r-hxwe32 {
+  --z-index: 13;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 66px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 44px;
+  width: 3px;
+}
+
+.homepage .t-hxwe32 {
+  --z-index: 14;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 72px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 42px;
+  width: 3px;
+}
+
+.homepage .s-hxwe32 {
+  --z-index: 15;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 78px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 40px;
+  width: 3px;
+}
+
+.homepage .text_label-hxwe32 {
+  --z-index: 16;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 84px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 37px;
+  width: 2px;
+}
+
+.homepage .x-P3PZGc {
+  --z-index: 17;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 87px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 32px;
+  width: 6px;
+}
+
+.homepage .text_label-alg3H6 {
+  --z-index: 18;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 94px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 27px;
+  width: 2px;
+}
+
+.homepage .t-alg3H6 {
+  --z-index: 19;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 97px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: 3px;
+}
+
+.homepage .o-alg3H6 {
+  --z-index: 20;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 99px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 17px;
+  width: 4px;
+}
+
+.homepage .o-XXN1PJ {
+  --z-index: 21;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 102px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  width: 4px;
+}
+
+.homepage .l-hxwe32 {
+  --z-index: 22;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 105px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: 2px;
+}
+
+.homepage .s-alg3H6 {
+  --z-index: 23;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 105px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: -2px;
+  width: 3px;
+}
+
+.homepage .kisspng-astronaut-sp-sowaWt {
+  --z-index: 4;
+  background-color: transparent;
+  background-image: url(../img/kisspng-astronaut-space-suit-outer-space-cartoon-astronauta-ni-n@2x.png);
+  background-size: 100% 100%;
+  height: 67px;
+  left: 33px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 46px;
+  width: 67px;
+}
+
+.homepage .x-sowaWt {
+  --z-index: 5;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'WindSong', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: 22px;
+  left: 84px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 15px;
+  transform: rotate(-180deg);
+  width: auto;
+}
+
+.homepage .component-8-C61RwL {
+  --z-index: 40;
+  background-color: transparent;
+  cursor: pointer;
+  height: 72px;
+  left: 141px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  pointer-events: auto;
+  position: absolute;
+  top: 2767px;
+  transition: all 0.2s ease;
+  width: 92px;
+}
+
+.homepage .component-8-C61RwL:hover {
+  transform: translate(0, -5px);
+}
+
+.homepage .back-to-top-ymSmVu {
+  --z-index: 0;
+  background-color: transparent;
+  color: #f6e7c6;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: 38px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  text-shadow: 0px 0px 4px #f6e7c6;
+  top: 34px;
+  width: 92px;
+}
+
+.homepage .x111-ymSmVu {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/111-2@2x.svg);
+  background-size: 100% 100%;
+  height: 46px;
+  left: 33px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: -1px;
+  width: 24px;
+}
+
+.homepage .component-20-C61RwL {
+  --z-index: 41;
+  background-color: transparent;
+  height: 144px;
+  left: 93px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 1969px;
+  width: 188px;
+}
+
+.homepage .component-10-uWnxTg {
+  --z-index: 0;
+  background-color: transparent;
+  height: 118px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 188px;
+}
+
+.homepage .component-1-BTrrL2 {
+  --z-index: 0;
+  background-color: transparent;
+  height: 34px;
+  left: 14px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 160px;
+}
+
+.homepage .rectangle-2-mpXMcY {
+  --z-index: 0;
+  background-color: #f6e7c6;
+  border-radius: 10px;
+  height: 34px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 160px;
+}
+
+.homepage .share-mpXMcY {
+  --z-index: 1;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 51px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 5px;
+  width: auto;
+}
+
+.homepage .share-in-your-social-networks-BTrrL2 {
+  --z-index: 1;
+  background-color: transparent;
+  color: #f6e7c6;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 43px;
+  width: auto;
+}
+
+.homepage .frame-2-BTrrL2 {
+  --z-index: 2;
+  background-color: transparent;
+  height: 54px;
+  left: 12px;
+  opacity: 1;
+  position: absolute;
+  top: 64px;
+  width: 163px;
+}
+
+.homepage .group-2-dWGVid {
+  --z-index: 0;
+  background-color: transparent;
+  height: 44px;
+  left: 5px;
+  opacity: 1;
+  position: absolute;
+  top: 5px;
+  width: 46px;
+}
+
+.homepage .ellipse-1-RyWfD2 {
+  --z-index: 0;
+  background-color: transparent;
+  border: 3px solid #f6e7c6;
+  border-radius: 23px/22px;
+  height: 44px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 46px;
+}
+
+.homepage .facebook-RyWfD2 {
+  --z-index: 1;
+  background-color: transparent;
+  color: #f6e7c6;
+  font-family: 'Font Awesome 5 Brands-Regular', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: auto;
+}
+
+.homepage .group-2-extf1Z {
+  --z-index: 1;
+  background-color: transparent;
+  height: 44px;
+  left: 59px;
+  opacity: 1;
+  position: absolute;
+  top: 5px;
+  width: 45px;
+}
+
+.homepage .ellipse-1-MEdaJM {
+  --z-index: 0;
+  background-color: transparent;
+  border: 3px solid #f6e7c6;
+  border-radius: 22.5px/22px;
+  height: 44px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 45px;
+}
+
+.homepage .instagram-MEdaJM {
+  --z-index: 1;
+  background-color: transparent;
+  color: #f6e7c6;
+  font-family: 'Font Awesome 5 Brands-Regular', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 10px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 5px;
+  width: 26px;
+}
+
+.homepage .group-2-3RHxsO {
+  --z-index: 2;
+  background-color: transparent;
+  height: 44px;
+  left: 112px;
+  opacity: 1;
+  position: absolute;
+  top: 5px;
+  width: 46px;
+}
+
+.homepage .ellipse-1-o7DcEI {
+  --z-index: 0;
+  background-color: transparent;
+  border: 3px solid #f6e7c6;
+  border-radius: 23px/22px;
+  height: 44px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 46px;
+}
+
+.homepage .twitter-o7DcEI {
+  --z-index: 1;
+  background-color: transparent;
+  color: #f6e7c6;
+  font-family: 'Font Awesome 5 Brands-Regular', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 4px;
+  width: auto;
+}
+
+.homepage .dont-forget-to-bookmark-us-uWnxTg {
+  --z-index: 1;
+  background-color: transparent;
+  color: #f6e7c6;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 127px;
+  width: auto;
+}
+
+.homepage .component-21-C61RwL {
+  --z-index: 42;
+  background-color: transparent;
+  height: 144px;
+  left: 93px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 1969px;
+  width: 188px;
+}
+
+.homepage .component-10-U6xerV {
+  --z-index: 0;
+  background-color: transparent;
+  height: 118px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 188px;
+}
+
+.homepage .component-1-GH3y6o {
+  --z-index: 0;
+  background-color: transparent;
+  height: 34px;
+  left: 14px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 160px;
+}
+
+.homepage .rectangle-2-hPRN9m {
+  --z-index: 0;
+  background-color: #f6e7c6;
+  border-radius: 10px;
+  height: 34px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 160px;
+}
+
+.homepage .share-hPRN9m {
+  --z-index: 1;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 51px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 5px;
+  width: auto;
+}
+
+.homepage .share-in-your-social-networks-GH3y6o {
+  --z-index: 1;
+  background-color: transparent;
+  color: #f6e7c6;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 43px;
+  width: auto;
+}
+
+.homepage .frame-2-GH3y6o {
+  --z-index: 2;
+  background-color: transparent;
+  height: 54px;
+  left: 12px;
+  opacity: 1;
+  position: absolute;
+  top: 64px;
+  width: 163px;
+}
+
+.homepage .group-2-0zQCLF {
+  --z-index: 0;
+  background-color: transparent;
+  height: 44px;
+  left: 5px;
+  opacity: 1;
+  position: absolute;
+  top: 5px;
+  width: 46px;
+}
+
+.homepage .ellipse-1-pLVE05 {
+  --z-index: 0;
+  background-color: transparent;
+  border: 3px solid #f6e7c6;
+  border-radius: 23px/22px;
+  height: 44px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 46px;
+}
+
+.homepage .facebook-pLVE05 {
+  --z-index: 1;
+  background-color: transparent;
+  color: #f6e7c6;
+  font-family: 'Font Awesome 5 Brands-Regular', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: auto;
+}
+
+.homepage .group-2-txtGuP {
+  --z-index: 1;
+  background-color: transparent;
+  height: 44px;
+  left: 59px;
+  opacity: 1;
+  position: absolute;
+  top: 5px;
+  width: 45px;
+}
+
+.homepage .ellipse-1-FIZIbg {
+  --z-index: 0;
+  background-color: transparent;
+  border: 3px solid #f6e7c6;
+  border-radius: 22.5px/22px;
+  height: 44px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 45px;
+}
+
+.homepage .instagram-FIZIbg {
+  --z-index: 1;
+  background-color: transparent;
+  color: #f6e7c6;
+  font-family: 'Font Awesome 5 Brands-Regular', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 10px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 5px;
+  width: 26px;
+}
+
+.homepage .group-2-0ItdaH {
+  --z-index: 2;
+  background-color: transparent;
+  height: 44px;
+  left: 112px;
+  opacity: 1;
+  position: absolute;
+  top: 5px;
+  width: 46px;
+}
+
+.homepage .ellipse-1-ex7FHs {
+  --z-index: 0;
+  background-color: transparent;
+  border: 3px solid #f6e7c6;
+  border-radius: 23px/22px;
+  height: 44px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 46px;
+}
+
+.homepage .twitter-ex7FHs {
+  --z-index: 1;
+  background-color: transparent;
+  color: #f6e7c6;
+  font-family: 'Font Awesome 5 Brands-Regular', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 4px;
+  width: auto;
+}
+
+.homepage .dont-forget-to-bookmark-us-U6xerV {
+  --z-index: 1;
+  background-color: transparent;
+  color: #f6e7c6;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 127px;
+  width: auto;
+}
+
+.homepage .component-15-C61RwL {
+  --z-index: 43;
+  background-color: transparent;
+  height: 48px;
+  left: 13px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 38px;
+  width: 348px;
+}
+
+.homepage .x-80D1y4 {
+  --z-index: 0;
+  -webkit-text-stroke: 1px #f6e7c6;
+  background-color: transparent;
+  color: #f6e7c6;
+  font-family: 'Fredericka the Great', Helvetica;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+  height: 49px;
+  left: 10px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: -7px;
+  transform: rotate(-90.00deg);
+  width: auto;
+}
+
+.homepage .cafe-astrology-80D1y4 {
+  --z-index: 1;
+  -webkit-text-stroke: 1px #ffffff;
+  background-color: transparent;
+  color: #f6e7c6;
+  font-family: 'Fredericka the Great', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  height: 37px;
+  left: 47px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 0px;
+  width: auto;
+}
+
+.homepage .component-14-80D1y4 {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/component-14@2x.svg);
+  background-size: 100% 100%;
+  height: 6px;
+  left: 2px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 42px;
+  width: 346px;
+}
+
+.homepage .component-13-80D1y4 {
+  --z-index: 3;
+  background-color: transparent;
+  height: 38px;
+  left: 304px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 38px;
+}
+
+.homepage .bg-MuEe0J {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/bg-1@2x.svg);
+  background-size: 100% 100%;
+  height: 48px;
+  left: -5px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: -5px;
+  width: 48px;
+}
+
+.homepage .user-interface-research-MuEe0J {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/user-interface---research@2x.svg);
+  background-size: 100% 100%;
+  height: 27px;
+  left: 6px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 6px;
+  width: 27px;
+}
+/* screen - calendar-1 */
+
+.calendar-1 {
+  background-color: #282828;
+  height: 1918px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 375px;
+}
+
+.calendar-1 .group-14-C61RwL {
+  --z-index: 0;
+  background-color: transparent;
+  cursor: pointer;
+  height: 40px;
+  left: 64px;
+  opacity: 1;
+  pointer-events: auto;
+  position: absolute;
+  top: 388px;
+  transition: all 0.2s ease;
+  width: 249px;
+}
+
+.calendar-1 .group-14-C61RwL:hover {
+  transform: translate(0, -5px);
+}
+
+.calendar-1 .rectangle-47-AX7pWk {
+  --z-index: 0;
+  background-color: #f6e7c6;
+  border-radius: 50px;
+  box-shadow: 0px 0px 4px #f6e7c6;
+  height: 40px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 247px;
+}
+
+.calendar-1 .select-your-sign-AX7pWk {
+  --z-index: 1;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  height: 23px;
+  left: 21px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 6px;
+  width: 131px;
+}
+
+.calendar-1 .solid-angle-down-AX7pWk {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/solid---angle-down-1@2x.svg);
+  background-size: 100% 100%;
+  height: 24px;
+  left: 203px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 8px;
+  width: 24px;
+}
+
+.calendar-1 .component-11-C61RwL {
+  --z-index: 1;
+  background-color: transparent;
+  height: 234px;
+  left: 17px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 101px;
+  width: 341px;
+}
+
+.calendar-1 .good-days-calendar-67BR09 {
+  --z-index: 0;
+  -webkit-text-stroke: 0.30000001192092896px #f6e7c6;
+  background-color: transparent;
+  color: #f6e7c6;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 35px;
+  font-style: normal;
+  font-weight: 400;
+  height: 84px;
+  left: -0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: -0px;
+  width: 341px;
+}
+
+.calendar-1 .good-days-and-best-d-67BR09 {
+  --z-index: 1;
+  background-color: transparent;
+  color: #f6e7c6;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: 150px;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 84px;
+  width: 339px;
+}
+
+.calendar-1 .footer-C61RwL {
+  --z-index: 2;
+  background-color: transparent;
+  height: 967px;
+  left: -140px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 1117px;
+  width: 553px;
+}
+
+.calendar-1 .kisspng-drawing-we-h-iPe1yZ {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/kisspng-drawing-we-heart-it-sketch-astronaut-5a79a4b7199b21-1@1x.png);
+  background-size: 100% 100%;
+  height: 960px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 7px;
+  width: 553px;
+}
+
+.calendar-1 .underline_06-iPe1yZ {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/underline-06@2x.svg);
+  background-size: 100% 100%;
+  height: 6px;
+  left: 158px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 40px;
+}
+
+.calendar-1 .underline_06-CMvW9s {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/underline-06-1@2x.svg);
+  background-size: 100% 100%;
+  height: 6px;
+  left: 197px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 42px;
+}
+
+.calendar-1 .underline_06-edsI20 {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/underline-06-1@2x.svg);
+  background-size: 100% 100%;
+  height: 6px;
+  left: 235px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 42px;
+}
+
+.calendar-1 .underline_06-ur51bv {
+  --z-index: 4;
+  background-color: transparent;
+  background-image: url(../img/underline-06-1@2x.svg);
+  background-size: 100% 100%;
+  height: 6px;
+  left: 273px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 42px;
+}
+
+.calendar-1 .underline_06-wlMi8f {
+  --z-index: 5;
+  background-color: transparent;
+  background-image: url(../img/underline-06-1@2x.svg);
+  background-size: 100% 100%;
+  height: 6px;
+  left: 311px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 42px;
+}
+
+.calendar-1 .underline_06-KHn6Qc {
+  --z-index: 6;
+  background-color: transparent;
+  background-image: url(../img/underline-06-1@2x.svg);
+  background-size: 100% 100%;
+  height: 6px;
+  left: 349px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 42px;
+}
+
+.calendar-1 .underline_06-6UujYQ {
+  --z-index: 7;
+  background-color: transparent;
+  background-image: url(../img/underline-06-1@2x.svg);
+  background-size: 100% 100%;
+  height: 6px;
+  left: 387px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 42px;
+}
+
+.calendar-1 .underline_06-6Hvcgn {
+  --z-index: 8;
+  background-color: transparent;
+  background-image: url(../img/underline-06-1@2x.svg);
+  background-size: 100% 100%;
+  height: 6px;
+  left: 425px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 42px;
+}
+
+.calendar-1 .underline_06-Yl6O4v {
+  --z-index: 9;
+  background-color: transparent;
+  background-image: url(../img/underline-06-1@2x.svg);
+  background-size: 100% 100%;
+  height: 6px;
+  left: 463px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 42px;
+}
+
+.calendar-1 .cafe-astrology-is-br-iPe1yZ {
+  --z-index: 10;
+  background-color: transparent;
+  color: #f6e7c6;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: 157px;
+  left: 181px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 166px;
+  width: 297px;
+}
+
+.calendar-1 .home-iPe1yZ {
+  --z-index: 11;
+  background-color: transparent;
+  color: #f6e7c6;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: 38px;
+  left: 295px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  text-shadow: 0px 0px 4px #f6e7c6;
+  top: 352px;
+  width: 69px;
+}
+
+.calendar-1 .about-us-iPe1yZ {
+  --z-index: 12;
+  background-color: transparent;
+  color: #f6e7c6;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: 38px;
+  left: 295px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  text-shadow: 0px 0px 4px #f6e7c6;
+  top: 397px;
+  width: 69px;
+}
+
+.calendar-1 .contact-us-iPe1yZ {
+  --z-index: 13;
+  background-color: transparent;
+  color: #f6e7c6;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: 38px;
+  left: 288px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  text-shadow: 0px 0px 4px #f6e7c6;
+  top: 442px;
+  width: 82px;
+}
+
+.calendar-1 .terms-of-use-iPe1yZ {
+  --z-index: 14;
+  background-color: transparent;
+  color: #f6e7c6;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: 38px;
+  left: 277px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  text-shadow: 0px 0px 4px #f6e7c6;
+  top: 487px;
+  width: 104px;
+}
+
+.calendar-1 .fa-qs-iPe1yZ {
+  --z-index: 15;
+  background-color: transparent;
+  color: #f6e7c6;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: 38px;
+  left: 295px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  text-shadow: 0px 0px 4px #f6e7c6;
+  top: 532px;
+  width: 69px;
+}
+
+.calendar-1 .site-news-iPe1yZ {
+  --z-index: 16;
+  background-color: transparent;
+  color: #f6e7c6;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: 38px;
+  left: 289px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  text-shadow: 0px 0px 4px #f6e7c6;
+  top: 577px;
+  width: 80px;
+}
+
+.calendar-1 .x2022-cafeastrologyco-iPe1yZ {
+  --z-index: 17;
+  -webkit-text-stroke: 0.30000001192092896px #f6e7c6;
+  background-color: transparent;
+  color: #f6e7c6;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: 38px;
+  left: 161px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 750px;
+  width: 336px;
+}
+
+.calendar-1 .frame-42-iPe1yZ {
+  --z-index: 18;
+  background-color: transparent;
+  height: 122px;
+  left: 263px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  overflow: hidden;
+  position: absolute;
+  top: 32px;
+  width: 132px;
+}
+
+.calendar-1 .ellipse-1-I6oVVv {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/ellipse-1-3@2x.svg);
+  background-size: 100% 100%;
+  height: 125px;
+  left: 5px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: -1px;
+  width: 125px;
+}
+
+.calendar-1 .astrology-I6oVVv {
+  --z-index: 1;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Fredericka the Great', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 16px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 37px;
+  width: auto;
+}
+
+.calendar-1 .cafe-I6oVVv {
+  --z-index: 2;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'WindSong', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: 22px;
+  left: 48px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 15px;
+  width: auto;
+}
+
+.calendar-1 .group-I6oVVv {
+  --z-index: 3;
+  background-color: transparent;
+  height: 54px;
+  left: 12px;
+  opacity: 1;
+  position: absolute;
+  top: 61px;
+  width: 159px;
+}
+
+.calendar-1 .a-5SRQFx {
+  --z-index: 0;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 2px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  width: 6px;
+}
+
+.calendar-1 .s-5SRQFx {
+  --z-index: 1;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 4px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 7px;
+  width: 3px;
+}
+
+.calendar-1 .t-5SRQFx {
+  --z-index: 2;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 13px;
+  width: 3px;
+}
+
+.calendar-1 .r-5SRQFx {
+  --z-index: 3;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 18px;
+  width: 3px;
+}
+
+.calendar-1 .o-5SRQFx {
+  --z-index: 4;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 12px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 24px;
+  width: 4px;
+}
+
+.calendar-1 .l-5SRQFx {
+  --z-index: 5;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 29px;
+  width: 2px;
+}
+
+.calendar-1 .o-PpVkxJ {
+  --z-index: 6;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 20px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 34px;
+  width: 4px;
+}
+
+.calendar-1 .g-5SRQFx {
+  --z-index: 7;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 26px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 38px;
+  width: 4px;
+}
+
+.calendar-1 .y-5SRQFx {
+  --z-index: 8;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 41px;
+  width: 4px;
+}
+
+.calendar-1 .text_label-5SRQFx {
+  --z-index: 9;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 40px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 44px;
+  width: 2px;
+}
+
+.calendar-1 .c-5SRQFx {
+  --z-index: 10;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 45px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 45px;
+  width: 3px;
+}
+
+.calendar-1 .h-5SRQFx {
+  --z-index: 11;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 51px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 46px;
+  width: 5px;
+}
+
+.calendar-1 .a-PpVkxJ {
+  --z-index: 12;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 59px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 45px;
+  width: 3px;
+}
+
+.calendar-1 .r-PpVkxJ {
+  --z-index: 13;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 66px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 44px;
+  width: 3px;
+}
+
+.calendar-1 .t-PpVkxJ {
+  --z-index: 14;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 72px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 42px;
+  width: 3px;
+}
+
+.calendar-1 .s-PpVkxJ {
+  --z-index: 15;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 78px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 40px;
+  width: 3px;
+}
+
+.calendar-1 .text_label-PpVkxJ {
+  --z-index: 16;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 84px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 37px;
+  width: 2px;
+}
+
+.calendar-1 .x-5SRQFx {
+  --z-index: 17;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 87px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 32px;
+  width: 6px;
+}
+
+.calendar-1 .text_label-6RbQTC {
+  --z-index: 18;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 94px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 27px;
+  width: 2px;
+}
+
+.calendar-1 .t-6RbQTC {
+  --z-index: 19;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 97px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: 3px;
+}
+
+.calendar-1 .o-6RbQTC {
+  --z-index: 20;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 99px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 17px;
+  width: 4px;
+}
+
+.calendar-1 .o-aqnxZg {
+  --z-index: 21;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 102px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  width: 4px;
+}
+
+.calendar-1 .l-PpVkxJ {
+  --z-index: 22;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 105px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: 2px;
+}
+
+.calendar-1 .s-6RbQTC {
+  --z-index: 23;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 105px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: -2px;
+  width: 3px;
+}
+
+.calendar-1 .kisspng-astronaut-sp-I6oVVv {
+  --z-index: 4;
+  background-color: transparent;
+  background-image: url(../img/kisspng-astronaut-space-suit-outer-space-cartoon-astronauta-ni-n@2x.png);
+  background-size: 100% 100%;
+  height: 67px;
+  left: 33px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 46px;
+  width: 67px;
+}
+
+.calendar-1 .x-I6oVVv {
+  --z-index: 5;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'WindSong', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: 22px;
+  left: 84px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 15px;
+  transform: rotate(-180deg);
+  width: auto;
+}
+
+.calendar-1 .group-86-iPe1yZ {
+  --z-index: 19;
+  background-color: transparent;
+  cursor: pointer;
+  height: 72px;
+  left: 283px;
+  opacity: 1;
+  pointer-events: auto;
+  position: absolute;
+  top: 644px;
+  transition: all 0.2s ease;
+  width: 94px;
+}
+
+.calendar-1 .group-86-iPe1yZ:hover {
+  transform: translate(0, -5px);
+}
+
+.calendar-1 .back-to-top-f6D4DJ {
+  --z-index: 0;
+  background-color: transparent;
+  color: #f6e7c6;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: 38px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  text-shadow: 0px 0px 4px #f6e7c6;
+  top: 34px;
+  width: 92px;
+}
+
+.calendar-1 .x111-f6D4DJ {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/111-3@2x.svg);
+  background-size: 100% 100%;
+  height: 46px;
+  left: 33px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: -1px;
+  width: 24px;
+}
+
+.calendar-1 .kisspng-planet-water-C61RwL {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/kisspng-planet-watercolor-painting-illustration-planet-5a7aeb9e3@1x.png);
+  background-size: 100% 100%;
+  height: 616px;
+  left: -379px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 328px;
+  width: 616px;
+}
+
+.calendar-1 .component-15-C61RwL {
+  --z-index: 4;
+  background-color: transparent;
+  height: 48px;
+  left: 13px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 38px;
+  width: 348px;
+}
+
+.calendar-1 .x-80D1y4 {
+  --z-index: 0;
+  -webkit-text-stroke: 1px #f6e7c6;
+  background-color: transparent;
+  color: #f6e7c6;
+  font-family: 'Fredericka the Great', Helvetica;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+  height: 49px;
+  left: 10px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: -7px;
+  transform: rotate(-90.00deg);
+  width: auto;
+}
+
+.calendar-1 .cafe-astrology-80D1y4 {
+  --z-index: 1;
+  -webkit-text-stroke: 1px #ffffff;
+  background-color: transparent;
+  color: #f6e7c6;
+  cursor: pointer;
+  font-family: 'Fredericka the Great', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  height: 37px;
+  left: 47px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 0px;
+  width: auto;
+}
+
+.calendar-1 .component-14-80D1y4 {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/component-14@2x.svg);
+  background-size: 100% 100%;
+  height: 6px;
+  left: 2px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 42px;
+  width: 346px;
+}
+
+.calendar-1 .component-13-80D1y4 {
+  --z-index: 3;
+  background-color: transparent;
+  height: 38px;
+  left: 304px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 38px;
+}
+
+.calendar-1 .bg-MuEe0J {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/bg-2@2x.svg);
+  background-size: 100% 100%;
+  height: 48px;
+  left: -5px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: -5px;
+  width: 48px;
+}
+
+.calendar-1 .user-interface-research-MuEe0J {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/user-interface---research-2@2x.svg);
+  background-size: 100% 100%;
+  height: 27px;
+  left: 6px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 6px;
+  width: 27px;
+}
+
+.calendar-1 .component-21-C61RwL {
+  --z-index: 5;
+  background-color: transparent;
+  height: 144px;
+  left: 93px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 958px;
+  width: 188px;
+}
+
+.calendar-1 .component-10-U6xerV {
+  --z-index: 0;
+  background-color: transparent;
+  height: 118px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 188px;
+}
+
+.calendar-1 .component-1-GH3y6o {
+  --z-index: 0;
+  background-color: transparent;
+  height: 34px;
+  left: 14px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 160px;
+}
+
+.calendar-1 .rectangle-2-hPRN9m {
+  --z-index: 0;
+  background-color: #f6e7c6;
+  border-radius: 10px;
+  height: 34px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 160px;
+}
+
+.calendar-1 .share-hPRN9m {
+  --z-index: 1;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 51px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 5px;
+  width: auto;
+}
+
+.calendar-1 .share-in-your-social-networks-GH3y6o {
+  --z-index: 1;
+  background-color: transparent;
+  color: #f6e7c6;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 43px;
+  width: auto;
+}
+
+.calendar-1 .frame-2-GH3y6o {
+  --z-index: 2;
+  background-color: transparent;
+  height: 54px;
+  left: 12px;
+  opacity: 1;
+  position: absolute;
+  top: 64px;
+  width: 163px;
+}
+
+.calendar-1 .group-2-0zQCLF {
+  --z-index: 0;
+  background-color: transparent;
+  height: 44px;
+  left: 5px;
+  opacity: 1;
+  position: absolute;
+  top: 5px;
+  width: 46px;
+}
+
+.calendar-1 .ellipse-1-pLVE05 {
+  --z-index: 0;
+  background-color: transparent;
+  border: 3px solid #f6e7c6;
+  border-radius: 23px/22px;
+  height: 44px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 46px;
+}
+
+.calendar-1 .facebook-pLVE05 {
+  --z-index: 1;
+  background-color: transparent;
+  color: #f6e7c6;
+  font-family: 'Font Awesome 5 Brands-Regular', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: auto;
+}
+
+.calendar-1 .group-2-txtGuP {
+  --z-index: 1;
+  background-color: transparent;
+  height: 44px;
+  left: 59px;
+  opacity: 1;
+  position: absolute;
+  top: 5px;
+  width: 45px;
+}
+
+.calendar-1 .ellipse-1-FIZIbg {
+  --z-index: 0;
+  background-color: transparent;
+  border: 3px solid #f6e7c6;
+  border-radius: 22.5px/22px;
+  height: 44px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 45px;
+}
+
+.calendar-1 .instagram-FIZIbg {
+  --z-index: 1;
+  background-color: transparent;
+  color: #f6e7c6;
+  font-family: 'Font Awesome 5 Brands-Regular', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 10px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 5px;
+  width: 26px;
+}
+
+.calendar-1 .group-2-0ItdaH {
+  --z-index: 2;
+  background-color: transparent;
+  height: 44px;
+  left: 112px;
+  opacity: 1;
+  position: absolute;
+  top: 5px;
+  width: 46px;
+}
+
+.calendar-1 .ellipse-1-ex7FHs {
+  --z-index: 0;
+  background-color: transparent;
+  border: 3px solid #f6e7c6;
+  border-radius: 23px/22px;
+  height: 44px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 46px;
+}
+
+.calendar-1 .twitter-ex7FHs {
+  --z-index: 1;
+  background-color: transparent;
+  color: #f6e7c6;
+  font-family: 'Font Awesome 5 Brands-Regular', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 4px;
+  width: auto;
+}
+
+.calendar-1 .dont-forget-to-bookmark-us-U6xerV {
+  --z-index: 1;
+  background-color: transparent;
+  color: #f6e7c6;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 127px;
+  width: auto;
+}
+
+.calendar-1 .component-22-C61RwL {
+  --z-index: 6;
+  background-color: transparent;
+  height: 144px;
+  left: 93px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 958px;
+  width: 188px;
+}
+
+.calendar-1 .component-10-JOeIWP {
+  --z-index: 0;
+  background-color: transparent;
+  height: 118px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 188px;
+}
+
+.calendar-1 .component-1-7x5NZ4 {
+  --z-index: 0;
+  background-color: transparent;
+  height: 34px;
+  left: 14px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 160px;
+}
+
+.calendar-1 .rectangle-2-Vxtm72 {
+  --z-index: 0;
+  background-color: #f6e7c6;
+  border-radius: 10px;
+  height: 34px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 160px;
+}
+
+.calendar-1 .share-Vxtm72 {
+  --z-index: 1;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 51px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 5px;
+  width: auto;
+}
+
+.calendar-1 .share-in-your-social-networks-7x5NZ4 {
+  --z-index: 1;
+  background-color: transparent;
+  color: #f6e7c6;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 43px;
+  width: auto;
+}
+
+.calendar-1 .frame-2-7x5NZ4 {
+  --z-index: 2;
+  background-color: transparent;
+  height: 54px;
+  left: 12px;
+  opacity: 1;
+  position: absolute;
+  top: 64px;
+  width: 163px;
+}
+
+.calendar-1 .group-2-7Qpgog {
+  --z-index: 0;
+  background-color: transparent;
+  height: 44px;
+  left: 5px;
+  opacity: 1;
+  position: absolute;
+  top: 5px;
+  width: 46px;
+}
+
+.calendar-1 .ellipse-1-SdCodE {
+  --z-index: 0;
+  background-color: transparent;
+  border: 3px solid #f6e7c6;
+  border-radius: 23px/22px;
+  height: 44px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 46px;
+}
+
+.calendar-1 .facebook-SdCodE {
+  --z-index: 1;
+  background-color: transparent;
+  color: #f6e7c6;
+  font-family: 'Font Awesome 5 Brands-Regular', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: auto;
+}
+
+.calendar-1 .group-2-ktMLdI {
+  --z-index: 1;
+  background-color: transparent;
+  height: 44px;
+  left: 59px;
+  opacity: 1;
+  position: absolute;
+  top: 5px;
+  width: 45px;
+}
+
+.calendar-1 .ellipse-1-XHw9WW {
+  --z-index: 0;
+  background-color: transparent;
+  border: 3px solid #f6e7c6;
+  border-radius: 22.5px/22px;
+  height: 44px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 45px;
+}
+
+.calendar-1 .instagram-XHw9WW {
+  --z-index: 1;
+  background-color: transparent;
+  color: #f6e7c6;
+  font-family: 'Font Awesome 5 Brands-Regular', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 10px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 5px;
+  width: 26px;
+}
+
+.calendar-1 .group-2-kJ7SE3 {
+  --z-index: 2;
+  background-color: transparent;
+  height: 44px;
+  left: 112px;
+  opacity: 1;
+  position: absolute;
+  top: 5px;
+  width: 46px;
+}
+
+.calendar-1 .ellipse-1-Axa6PA {
+  --z-index: 0;
+  background-color: transparent;
+  border: 3px solid #f6e7c6;
+  border-radius: 23px/22px;
+  height: 44px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 46px;
+}
+
+.calendar-1 .twitter-Axa6PA {
+  --z-index: 1;
+  background-color: transparent;
+  color: #f6e7c6;
+  font-family: 'Font Awesome 5 Brands-Regular', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 4px;
+  width: auto;
+}
+
+.calendar-1 .dont-forget-to-bookmark-us-JOeIWP {
+  --z-index: 1;
+  background-color: transparent;
+  color: #f6e7c6;
+  font-family: 'GFS Didot', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 127px;
+  width: auto;
+}
